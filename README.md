@@ -6,7 +6,7 @@ What is the likelihood of modern gaming improving mathematical education capabil
 # About
 
 Maths Obby Game 2 is a new version of the previous Maths Obby Game, the objective still stays the same, where you are to complete various obstacles including math equations to continue on throughout each level. 
-you are required to answer the math equations correctly to continue on through each level, this version is more interactive then previously, so it will allow you and the target audience to explore, jump, climb 
+you are required to answer the math equations correctly to leave specific levels, this version is more interactive then previously, so it will allow you and the target audience to explore, jump, climb 
 and squeeze through various obstacles to find your answer to the equation.
 
 # Launching Game Via Unreal Engine
